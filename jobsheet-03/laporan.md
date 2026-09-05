@@ -18,3 +18,6 @@
 
 ## halaman list anggota
 ![list-anggota](image-3.png)
+
+## halaman tambah anggota
+![tambah-anggota](image-4.png)
