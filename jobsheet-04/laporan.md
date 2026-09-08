@@ -12,3 +12,6 @@
 
 ## halaman list buku
 ![list-buku](image-1.png)
+
+## halaman tambah buku
+![tambah-buku](image-2.png)
