@@ -8,7 +8,7 @@
 # Jobsheet 3 Responsive Design
 
 ## halaman index 
-![index](image-5.png)
+![index](image-4.png)
 
 ## halaman list buku
 ![list-buku](image.png)
