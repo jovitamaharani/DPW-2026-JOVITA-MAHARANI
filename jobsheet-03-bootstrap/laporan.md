@@ -4,3 +4,11 @@
 | Nama |  Jovita Maharani |
 | Kelas | TI - 1F |
 | Repository | [link] (https://github.com/jovitamaharani/DPW-2026-JOVITA-MAHARANI/tree/main/jobsheet-03-bootstrap) |
+
+# Jobsheet 3 (Versi Bootstrap) — Responsive Design dengan Framework
+
+## halaman index
+![index](image.png)
+
+## halaman list buku
+![list-buku](image-1.png)
