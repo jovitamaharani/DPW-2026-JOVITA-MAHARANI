@@ -8,10 +8,10 @@
 # Jobsheet 5 - JavaScript DOM & Event
 
 ## halaman index
-
+![index](image.png)
 
 ## halaman list buku
-
+![list-buku](image-1.png)
 
 ## halaman tambah buku
 
