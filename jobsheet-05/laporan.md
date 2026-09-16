@@ -21,3 +21,4 @@
 ![list-anggota](image-4.png)
 
 ## halaman tambah anggota
+![tambah-anggota](image-5.png)
