@@ -17,6 +17,7 @@
 ![tambah-buku](image-2.png)
 
 ## halaman list anggota
-
+![list-anggota](image-3.png)
+![list-anggota](image-4.png)
 
 ## halaman tambah anggota
