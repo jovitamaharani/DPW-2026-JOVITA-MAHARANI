@@ -14,6 +14,7 @@ $totalDipinjam = $pdo->query("SELECT COUNT(*) FROM peminjaman WHERE status = 'di
 
         <section>
             <h2>Ringkasan</h2>
+            <div style="grid-column: 3;"></div>
             <article>
                 <h3>Total Buku</h3>
                 <p><?php echo $totalBuku; ?></p>

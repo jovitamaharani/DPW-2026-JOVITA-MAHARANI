@@ -13,6 +13,7 @@ $totalAnggota = $pdo->query("SELECT COUNT(*) FROM anggota")->fetchColumn();
 
         <section>
             <h2>Ringkasan</h2>
+            <div style="grid-column: 3;"></div>
             <article>
                 <h3>Total Buku</h3>
                 <p><?php echo $totalBuku; ?></p>
