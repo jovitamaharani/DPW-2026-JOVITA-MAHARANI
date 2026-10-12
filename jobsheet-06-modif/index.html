@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pencatat Keuangan | Beranda</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Pencatat Keuangan</h1>
+        <button type="button" id="nav-toggle-btn" class="nav-toggle-label" aria-label="Menu">&#9776;</button>
+        <nav>
+            <ul>
+                <li><a href="index.html">Beranda</a></li>
+                <li><a href="transaksi/list.html">Daftar Transaksi</a></li>
+                <li><a href="transaksi/tambah.html">Tambah Transaksi</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Selamat Datang di Sistem Pencatat Keuangan</h2>
+            <p>Aplikasi sederhana untuk mengelola data transaksi keuangan.</p>
+        </section>
+
+        <section>
+            <h2>Ringkasan</h2>
+            <div style="grid-column: 3;"></div>
+           <article>
+                <h3>Total Transaksi</h3>
+                <p id="total-transaksi">4</p>
+            </article>
+            <article>
+                <h3>Total Pemasukan</h3>
+                <p id="total-pemasukan">Rp 650.000</p>
+            </article>
+            <article>
+                <h3>Total Pengeluaran</h3>
+                <p id="total-pengeluaran">Rp 45.000</p>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Pencatat Keuangan &mdash; Jobsheet 6</p>
+    </footer>
+    <script src="assets/js/app.js"></script>
+</body>
+</html>
