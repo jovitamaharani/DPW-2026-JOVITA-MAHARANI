@@ -1,0 +1,6 @@
+[
+  { "id": 1, "tanggal": "2026-10-10", "keterangan": "Uang saku bulanan", "jenis": "pemasukan", "jumlah": 500000 },
+  { "id": 2, "tanggal": "2026-10-11", "keterangan": "Beli buku catatan dan alat tulis", "jenis": "pengeluaran", "jumlah": 25000 },
+  { "id": 3, "tanggal": "2026-10-12", "keterangan": "Makan siang kantin", "jenis": "pengeluaran", "jumlah": 20000 },
+  { "id": 4, "tanggal": "2026-10-12", "keterangan": "tugas freelance", "jenis": "pemasukan", "jumlah": 150000 }
+]
